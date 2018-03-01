@@ -1,3 +1,5 @@
+# Nao consegui fazer o programa mas encontrei este que segue o metodo minimax:
+# credito http://www.sarathlakshman.com/2011/04/29/writing-a-tic-tac
 class GAME:
 
     def __init__(self):
